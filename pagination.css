@@ -67,12 +67,10 @@ main .list .item:hover {
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
     cursor: pointer;
 }
-
 .pagenumbers li:hover,
 .pagenumbers li.active {
     background-color: #44eeaa
 }
-
 .pagenumbers li.active {
     box-shadow: inset 0px 0px 4px rgba(0, 0, 0, 0.2);
 }
