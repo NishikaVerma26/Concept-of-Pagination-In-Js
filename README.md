@@ -1,2 +1,5 @@
 # Concept-of-Pagination-In-Js
 The Pagination example using HTML, CSS, and JavaScript is a project that demonstrates how to implement pagination in a web page. The project involves dividing a large amount of data into multiple pages, with each page displaying a specified number of items.
+ Users can navigate through the pages by clicking on pagination links, which dynamically update the content area with the new page of items.
+
+The project consists of three main components: HTML, CSS, and JavaScript. The HTML provides the structure for the pagination links and the content area where the items will be displayed. The CSS styles the pagination links to make them more interactive and visually appealing. The JavaScript defines the number of items per page, retrieves the data from a data source, calculates the total number of pages, creates the pagination links dynamically based on the current page and the number of pages, and updates the content area with the new page of items when a user clicks on a pagination link.
