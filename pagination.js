@@ -54,7 +54,6 @@ function SetupPagination (items, wrapper, rows_per_page) {
         wrapper.appendChild(btn);
     }
 }
-
 //Pagination Button function
 function PaginationButton(page, items) {
     const li = document.createElement('li');
